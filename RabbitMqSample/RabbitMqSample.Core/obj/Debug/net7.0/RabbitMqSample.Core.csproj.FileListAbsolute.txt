@@ -1,0 +1,11 @@
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\bin\Debug\net7.0\RabbitMqSample.Core.deps.json
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\bin\Debug\net7.0\RabbitMqSample.Core.dll
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\bin\Debug\net7.0\RabbitMqSample.Core.pdb
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\RabbitMqSample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\RabbitMqSample.Core.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\RabbitMqSample.Core.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\RabbitMqSample.Core.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\RabbitMqSample.Core.dll
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\refint\RabbitMqSample.Core.dll
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\RabbitMqSample.Core.pdb
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.Core\obj\Debug\net7.0\ref\RabbitMqSample.Core.dll
