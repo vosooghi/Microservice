@@ -1,0 +1,17 @@
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\bin\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.exe
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\bin\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.deps.json
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\bin\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.runtimeconfig.json
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\bin\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.dll
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\bin\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.pdb
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.csproj.AssemblyReference.cache
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.csproj.CopyComplete
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.dll
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\refint\RabbitMqSample.RPC.RpcCaller.dll
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.pdb
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\RabbitMqSample.RPC.RpcCaller.genruntimeconfig.cache
+C:\Users\Abbas\source\repos\Microservice\RabbitMqSample\RabbitMqSample.RPC.RpcCaller\obj\Debug\net7.0\ref\RabbitMqSample.RPC.RpcCaller.dll

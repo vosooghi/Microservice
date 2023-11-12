@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "14jvUFbpxEGesjOWStjT6okVqv/fFNlo/9ZI40KoDovqoq/xUmBgEkrDRQS87GBus+derJBhlqdgVs45QTg4Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abbas\\source\\repos\\Microservice\\RabbitMqSample\\RabbitMqSample.RPC.RpcCaller\\RabbitMqSample.RPC.RpcCaller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abbas\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\Abbas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Abbas\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
