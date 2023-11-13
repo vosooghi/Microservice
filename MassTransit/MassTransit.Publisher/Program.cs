@@ -4,6 +4,9 @@ using MassTransit.Contracts;
 var bus = Bus.Factory.CreateUsingRabbitMq(sbc =>
 {
     sbc.Host("rabbitmq://localhost");
+    sbc.ReceiveEndpoint("test_queue",ep =>
+    { });
+    
 });
 
 await bus.StartAsync();

@@ -1,0 +1,11 @@
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\bin\Release\net7.0\MassTransit.Contracts.deps.json
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\bin\Release\net7.0\MassTransit.Contracts.dll
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\bin\Release\net7.0\MassTransit.Contracts.pdb
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\MassTransit.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\MassTransit.Contracts.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\MassTransit.Contracts.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\MassTransit.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\MassTransit.Contracts.dll
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\refint\MassTransit.Contracts.dll
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\MassTransit.Contracts.pdb
+C:\Users\Abbas\source\repos\Microservice\MassTransit\MassTransit.Contracts\obj\Release\net7.0\ref\MassTransit.Contracts.dll
