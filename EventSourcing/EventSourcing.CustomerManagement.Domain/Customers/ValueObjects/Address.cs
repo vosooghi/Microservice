@@ -9,6 +9,7 @@ namespace EventSourcing.CustomerManagement.Domain.Customers.ValueObjects
 {
     public class Address: ValueObject
     {
+        //Business logic is implemented here.
         public string Street { get; set; }
         public string City { get; set; }
         public string Country { get; set; }

@@ -1,0 +1,12 @@
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\bin\Debug\net7.0\EventSourcing.Framework.deps.json
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\bin\Debug\net7.0\EventSourcing.Framework.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\bin\Debug\net7.0\EventSourcing.Framework.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\EventSourcing.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\EventSourcing.Framework.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\EventSourcing.Framework.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\EventSourcing.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\EventSourcing.Framework.sourcelink.json
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\EventSourcing.Framework.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\refint\EventSourcing.Framework.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\EventSourcing.Framework.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.Framework\obj\Debug\net7.0\ref\EventSourcing.Framework.dll

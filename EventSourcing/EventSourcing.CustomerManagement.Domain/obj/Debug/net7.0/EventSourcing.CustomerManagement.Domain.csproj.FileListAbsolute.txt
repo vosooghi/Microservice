@@ -1,0 +1,16 @@
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\bin\Debug\net7.0\EventSourcing.CustomerManagement.Domain.deps.json
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\bin\Debug\net7.0\EventSourcing.CustomerManagement.Domain.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\bin\Debug\net7.0\EventSourcing.CustomerManagement.Domain.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\bin\Debug\net7.0\EventSourcing.Framework.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\bin\Debug\net7.0\EventSourcing.Framework.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.sourcelink.json
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.csproj.CopyComplete
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\refint\EventSourcing.CustomerManagement.Domain.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\EventSourcing.CustomerManagement.Domain.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.CustomerManagement.Domain\obj\Debug\net7.0\ref\EventSourcing.CustomerManagement.Domain.dll
