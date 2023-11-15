@@ -9,7 +9,6 @@ IConnection _connection;
 IModel _model;
 const string QueueName = "SampleQueue";
 
-
 CreateConnection();
 string key;
 do
