@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EventSourcing.CustomerManagement.Infrastructure.Data.Commands/1.0.0": {
+        "dependencies": {
+          "EventSourcing.CustomerManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EventSourcing.CustomerManagement.Infrastructure.Data.Commands.dll": {}
+        }
+      },
+      "EventSourcing.CustomerManagement.Domain/1.0.0": {
+        "dependencies": {
+          "EventSourcing.Framework": "1.0.0"
+        },
+        "runtime": {
+          "EventSourcing.CustomerManagement.Domain.dll": {}
+        }
+      },
+      "EventSourcing.Framework/1.0.0": {
+        "runtime": {
+          "EventSourcing.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventSourcing.CustomerManagement.Infrastructure.Data.Commands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EventSourcing.CustomerManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EventSourcing.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

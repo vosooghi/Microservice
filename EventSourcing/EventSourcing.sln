@@ -7,17 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.CustmerManagement", "01.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Core", "01.Core", "{5479C0F0-1452-4E49-A9E1-3257823614C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.CustomerManagement.Domain", "EventSourcing.CustomerManagement.Domain\EventSourcing.CustomerManagement.Domain.csproj", "{B1435B56-D0BC-41F2-8288-6F615D83950C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcing.CustomerManagement.Domain", "EventSourcing.CustomerManagement.Domain\EventSourcing.CustomerManagement.Domain.csproj", "{B1435B56-D0BC-41F2-8288-6F615D83950C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Framework", "00.Framework", "{C3E70D97-2CE2-4826-AE87-7F17D6644C5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.Framework", "EventSourcing.Framework\EventSourcing.Framework.csproj", "{A2C9C519-A0D7-4CDE-A0EA-FB668D8AB558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcing.Framework", "EventSourcing.Framework\EventSourcing.Framework.csproj", "{A2C9C519-A0D7-4CDE-A0EA-FB668D8AB558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.CustomerManagement.ApplicationServices", "EventSourcing.CustomerManagement.ApplicationServices\EventSourcing.CustomerManagement.ApplicationServices.csproj", "{4CC4713E-EAAD-44A7-90FE-3105586E6EBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcing.CustomerManagement.ApplicationServices", "EventSourcing.CustomerManagement.ApplicationServices\EventSourcing.CustomerManagement.ApplicationServices.csproj", "{4CC4713E-EAAD-44A7-90FE-3105586E6EBE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03", "03", "{C26185E8-429E-4E26-BF87-6E6E313322F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.CustomerManagement.EndPoints.WebApi", "EventSourcing.CustomerManagement.EndPoints.WebApi\EventSourcing.CustomerManagement.EndPoints.WebApi.csproj", "{C6875DC9-EF64-45C3-8487-E9127DA365FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcing.CustomerManagement.EndPoints.WebApi", "EventSourcing.CustomerManagement.EndPoints.WebApi\EventSourcing.CustomerManagement.EndPoints.WebApi.csproj", "{C6875DC9-EF64-45C3-8487-E9127DA365FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcing.EventStore.SqlServer", "EventSourcing.EventStore.SqlServer\EventSourcing.EventStore.SqlServer.csproj", "{088BC1EC-C2B2-40D4-BEF7-79636D33C1AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Infrastructures", "02.Infrastructures", "{F0AE3F30-1C36-4989-804A-FDB2894510F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.CustomerManagement.Infrastructure.Data.Commands", "EventSourcing.CustomerManagement.Infrastructure.Data.Commands\EventSourcing.CustomerManagement.Infrastructure.Data.Commands.csproj", "{786A6788-0C14-471F-884D-AE97BBEE785E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +47,14 @@ Global
 		{C6875DC9-EF64-45C3-8487-E9127DA365FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6875DC9-EF64-45C3-8487-E9127DA365FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6875DC9-EF64-45C3-8487-E9127DA365FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088BC1EC-C2B2-40D4-BEF7-79636D33C1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088BC1EC-C2B2-40D4-BEF7-79636D33C1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088BC1EC-C2B2-40D4-BEF7-79636D33C1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088BC1EC-C2B2-40D4-BEF7-79636D33C1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786A6788-0C14-471F-884D-AE97BBEE785E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786A6788-0C14-471F-884D-AE97BBEE785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786A6788-0C14-471F-884D-AE97BBEE785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786A6788-0C14-471F-884D-AE97BBEE785E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +66,9 @@ Global
 		{4CC4713E-EAAD-44A7-90FE-3105586E6EBE} = {5479C0F0-1452-4E49-A9E1-3257823614C0}
 		{C26185E8-429E-4E26-BF87-6E6E313322F6} = {8F82080B-C226-42BA-B359-187A5A1F1E43}
 		{C6875DC9-EF64-45C3-8487-E9127DA365FE} = {C26185E8-429E-4E26-BF87-6E6E313322F6}
+		{088BC1EC-C2B2-40D4-BEF7-79636D33C1AE} = {C3E70D97-2CE2-4826-AE87-7F17D6644C5A}
+		{F0AE3F30-1C36-4989-804A-FDB2894510F8} = {8F82080B-C226-42BA-B359-187A5A1F1E43}
+		{786A6788-0C14-471F-884D-AE97BBEE785E} = {F0AE3F30-1C36-4989-804A-FDB2894510F8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {50744511-3C1F-445F-8539-92A1F3F12E2F}

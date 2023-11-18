@@ -13,6 +13,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EventSourcing.CustomerManagement.ApplicationServices\EventSourcing.CustomerManagement.ApplicationServices.csproj" />
+    <ProjectReference Include="..\EventSourcing.CustomerManagement.Infrastructure.Data.Commands\EventSourcing.CustomerManagement.Infrastructure.Data.Commands.csproj" />
+    <ProjectReference Include="..\EventSourcing.EventStore.SqlServer\EventSourcing.EventStore.SqlServer.csproj" />
   </ItemGroup>
 
 </Project>

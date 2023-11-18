@@ -1,0 +1,16 @@
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\bin\Debug\net7.0\EventSourcing.EventStore.SqlServer.deps.json
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\bin\Debug\net7.0\EventSourcing.EventStore.SqlServer.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\bin\Debug\net7.0\EventSourcing.EventStore.SqlServer.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\bin\Debug\net7.0\EventSourcing.Framework.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\bin\Debug\net7.0\EventSourcing.Framework.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.sourcelink.json
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.csproj.CopyComplete
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\refint\EventSourcing.EventStore.SqlServer.dll
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\EventSourcing.EventStore.SqlServer.pdb
+C:\Users\Abbas\source\repos\Microservice\EventSourcing\EventSourcing.EventStore.SqlServer\obj\Debug\net7.0\ref\EventSourcing.EventStore.SqlServer.dll

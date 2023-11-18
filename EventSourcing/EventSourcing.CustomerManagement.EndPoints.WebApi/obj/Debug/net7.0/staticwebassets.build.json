@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IR17i4tlxzyknlIlQwuoL5ln/ys5cI4u32tKidGNHWk=",
+  "Source": "EventSourcing.CustomerManagement.EndPoints.WebApi",
+  "BasePath": "_content/EventSourcing.CustomerManagement.EndPoints.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
