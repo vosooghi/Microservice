@@ -10,8 +10,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<CustomerService>();
+
+//when using sql server as an Event Store
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddScoped<IEventStore, SqlEventStore>();
+
+//When using EventStore
+//var esConnection = EventStoreConnection.Create( Configuration["eventStore:connectionString"], ConnectionSettings.Create().KeepReconnecting(),"MyApplication");
+//services.AddSingleton(esConnection);
+//services.AddScoped<IEventStore, EsEventStore>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
