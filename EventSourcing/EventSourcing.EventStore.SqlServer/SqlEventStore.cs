@@ -25,7 +25,7 @@ namespace EventSourcing.EventStore.SqlServer
         }
         public SqlEventStore()
         {
-            sqlConnectionString = "Server = .; Database=EventSourcing;User Id =sa;Password=1qaz!QAZ; MultipleActiveResultSets=true";
+            sqlConnectionString = "Server = .; Database=EventSourcing;User Id =esuser;Password=P@ssword; MultipleActiveResultSets=true";
         }
         public async Task<IReadOnlyCollection<IDomainEvent>> LoadAsync(Guid aggregateRootId, string aggregateName)
         {
