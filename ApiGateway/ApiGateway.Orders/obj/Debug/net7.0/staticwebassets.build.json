@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k8/qmScp9HhcolqFPJq6Edl9eUX843k0naeFftMBSHw=",
+  "Source": "ApiGateway.Orders",
+  "BasePath": "_content/ApiGateway.Orders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
