@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RkJX4F9QmteePigna+VK/zHeKlk42MEUUlmB35YLi4Q=",
+  "Source": "ApiGateway.Weather",
+  "BasePath": "_content/ApiGateway.Weather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

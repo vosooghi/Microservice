@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d1poSNjwbLKEdTASv9XniCojpQXv33ZuHnTe8MADuOk=",
+  "Source": "ApiGateway.Person",
+  "BasePath": "_content/ApiGateway.Person",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
