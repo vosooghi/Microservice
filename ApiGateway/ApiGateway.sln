@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34302.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Person", "ApiGateway.Person\ApiGateway.Person.csproj", "{81BFCF56-6297-4473-9242-CD32C4B6C84B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Person", "ApiGateway.Person\ApiGateway.Person.csproj", "{81BFCF56-6297-4473-9242-CD32C4B6C84B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Weather", "ApiGateway.Weather\ApiGateway.Weather.csproj", "{B422FC9D-FD08-462C-A190-720E0384E9FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Weather", "ApiGateway.Weather\ApiGateway.Weather.csproj", "{B422FC9D-FD08-462C-A190-720E0384E9FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Ocelot", "ApiGateway.Ocelot\ApiGateway.Ocelot.csproj", "{25735BDC-66B1-4351-8071-C78245FD99EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Ocelot", "ApiGateway.Ocelot\ApiGateway.Ocelot.csproj", "{25735BDC-66B1-4351-8071-C78245FD99EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Person2", "ApiGateway.Person2\ApiGateway.Person2.csproj", "{7911F365-F369-424C-9544-9A31731878AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{25735BDC-66B1-4351-8071-C78245FD99EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25735BDC-66B1-4351-8071-C78245FD99EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25735BDC-66B1-4351-8071-C78245FD99EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7911F365-F369-424C-9544-9A31731878AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7911F365-F369-424C-9544-9A31731878AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7911F365-F369-424C-9544-9A31731878AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7911F365-F369-424C-9544-9A31731878AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

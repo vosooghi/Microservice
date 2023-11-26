@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiGateway.Person2.props" />
+</Project>

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace ApiGateway.Person.Controllers
+namespace ApiGateway.Person2.Controllers
 {
     [ApiController]
     public class PersonController : ControllerBase
@@ -10,20 +10,20 @@ namespace ApiGateway.Person.Controllers
                 new Person
                 {
                     Id =1,
-                    FirstName="Abbas",
-                    LastName = "Vosoughi"
+                    FirstName="Abbas2",
+                    LastName = "Vosoughi2"
                 },
                                 new Person
                 {
                     Id =2,
-                    FirstName="Radmehr",
-                    LastName = "Vosoughi"
+                    FirstName="Radmehr2",
+                    LastName = "Vosoughi2"
                 },
                                                 new Person
                 {
                     Id =3,
-                    FirstName="Elnaz",
-                    LastName = "Miraee"
+                    FirstName="Elnaz2",
+                    LastName = "Miraee2"
                 }
             };
 
