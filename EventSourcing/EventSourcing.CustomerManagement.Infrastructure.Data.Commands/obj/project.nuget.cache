@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PejvkzLkRNJmvxLdPpNKseN/5nL5IkjWkoAyNDhoufRYZ8lN8to4u5Kj5WOmeX0YlXM0rGqHmwZhv0KOVWisFg==",
+  "dgSpecHash": "nqmA8YubvtO5O392NwOMqeWUhwSq5RQoPnwWWqDmTMe/DOX3Vl/MdCWBI4iC61z738pfSWUlmB9ZgpAvUr6Rzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abbas\\source\\repos\\Microservice\\EventSourcing\\EventSourcing.CustomerManagement.Infrastructure.Data.Commands\\EventSourcing.CustomerManagement.Infrastructure.Data.Commands.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

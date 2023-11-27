@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EcSqJN71iovY8Gu5IJeUedqwzkMtqx9DXtVPS/1UzR52Laa0Xd+8IIJUhCRdE609NUJ5BH59LzPgK3ZnCUjPaA==",
+  "dgSpecHash": "GxwHRWKkeK2WdaaN77S8G6JTum1qMk7eCjozljSKzIsfZoeMMUEokytILU97jit3GPn1nmddl+oSUY2/CEoYHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abbas\\source\\repos\\Microservice\\EventSourcing\\EventSourcing.EventStore.Es\\EventSourcing.EventStore.Es.csproj",
   "expectedPackageFiles": [
@@ -56,10 +56,7 @@
     "C:\\Users\\Abbas\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\Abbas\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Abbas\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "C:\\Users\\Abbas\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

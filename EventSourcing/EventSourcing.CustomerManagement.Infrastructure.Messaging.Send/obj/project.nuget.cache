@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rJAzBLZ+UEmdSu8gCYJTgD0wWGQGcPSKe9K+/K1frt/8aIQ/sMO5wqu87FlLi8vjl4IgG5mrsAiZm4f0Z4VaQg==",
+  "dgSpecHash": "0HPBDkyMA7O+oNYiiBHhU2vDt0A2FWTIR8kMnwlZCajVQFTfA3YPshXYWgOg3D4e+Du4t+jFlw9JF7ZSNfUNuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abbas\\source\\repos\\Microservice\\EventSourcing\\EventSourcing.CustomerManagement.Infrastructure.Messaging.Send\\EventSourcing.CustomerManagement.Infrastructure.Messaging.Send.csproj",
   "expectedPackageFiles": [
@@ -29,11 +29,7 @@
     "C:\\Users\\Abbas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\Abbas\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\Abbas\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\Abbas\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

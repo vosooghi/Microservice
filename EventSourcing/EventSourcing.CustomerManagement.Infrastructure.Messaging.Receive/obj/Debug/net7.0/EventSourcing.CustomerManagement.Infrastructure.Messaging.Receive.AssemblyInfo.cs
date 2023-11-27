@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventSourcing.CustomerManagement.Infrastructure.Messaging.Receive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b931e61efd4a927442f4d938c3a5bcc74a55ec4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventSourcing.CustomerManagement.Infrastructure.Messaging.Receive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventSourcing.CustomerManagement.Infrastructure.Messaging.Receive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

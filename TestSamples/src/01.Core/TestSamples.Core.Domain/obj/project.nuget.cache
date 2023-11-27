@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+9uXfvGtKvhVwufRnjy4HGaEZYR8dkXf6LwxbR2DPD5rmE+ipVg+7xQHd2vZr4oSXVN56Df6KQADlnMLvnEtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abbas\\source\\repos\\Microservice\\TestSamples\\src\\01.Core\\TestSamples.Core.Domain\\TestSamples.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abbas\\.nuget\\packages\\zamin.core.domain\\6.0.1\\zamin.core.domain.6.0.1.nupkg.sha512",
+    "C:\\Users\\Abbas\\.nuget\\packages\\zamin.utilities\\6.0.1\\zamin.utilities.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

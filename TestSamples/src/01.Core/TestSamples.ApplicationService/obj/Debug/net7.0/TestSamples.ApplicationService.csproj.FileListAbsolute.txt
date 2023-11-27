@@ -1,0 +1,15 @@
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\bin\Debug\net7.0\TestSamples.ApplicationService.deps.json
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\bin\Debug\net7.0\TestSamples.ApplicationService.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\bin\Debug\net7.0\TestSamples.ApplicationService.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\bin\Debug\net7.0\TestSamples.Core.Domain.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\bin\Debug\net7.0\TestSamples.Core.Domain.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.csproj.CopyComplete
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\refint\TestSamples.ApplicationService.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\TestSamples.ApplicationService.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\01.Core\TestSamples.ApplicationService\obj\Debug\net7.0\ref\TestSamples.ApplicationService.dll
