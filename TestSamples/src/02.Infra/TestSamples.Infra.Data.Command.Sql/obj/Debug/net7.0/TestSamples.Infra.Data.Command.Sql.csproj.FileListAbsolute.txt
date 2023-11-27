@@ -1,0 +1,15 @@
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\bin\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.deps.json
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\bin\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\bin\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\bin\Debug\net7.0\TestSamples.Core.Domain.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\bin\Debug\net7.0\TestSamples.Core.Domain.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.csproj.AssemblyReference.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.csproj.CopyComplete
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\refint\TestSamples.Infra.Data.Command.Sql.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\TestSamples.Infra.Data.Command.Sql.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\src\02.Infra\TestSamples.Infra.Data.Command.Sql\obj\Debug\net7.0\ref\TestSamples.Infra.Data.Command.Sql.dll
