@@ -1,0 +1,11 @@
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\bin\Debug\net7.0\TestSamples.Consumer.Shared.deps.json
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\bin\Debug\net7.0\TestSamples.Consumer.Shared.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\bin\Debug\net7.0\TestSamples.Consumer.Shared.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\TestSamples.Consumer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\TestSamples.Consumer.Shared.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\TestSamples.Consumer.Shared.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\TestSamples.Consumer.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\TestSamples.Consumer.Shared.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\refint\TestSamples.Consumer.Shared.dll
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\TestSamples.Consumer.Shared.pdb
+C:\Users\Abbas\source\repos\Microservice\TestSamples\consumer\TestSamples.Consumer.Shared\obj\Debug\net7.0\ref\TestSamples.Consumer.Shared.dll
