@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HealthCheckTest.ProEndpoint.props" />
+</Project>

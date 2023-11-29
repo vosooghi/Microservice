@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T5FXD7MihvqOU07enNO8SSimOFftWkwONn7c02Smlv0=",
+  "Source": "HealthCheckTest.ProEndpoint",
+  "BasePath": "_content/HealthCheckTest.ProEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
